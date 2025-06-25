@@ -1,20 +1,34 @@
-<<<<<<< HEAD
-# chatly
+# Chatly 💬
 
-A new Flutter project.
+Chatly is a real-time Flutter chat app built with Firebase Firestore. It features:
 
-## Getting Started
+- 🔒 Google Sign-In Authentication
+- 📡 Real-time 1-on-1 messaging
+- 🧑‍🤝‍🧑 Unique usernames (like Instagram)
+- 📷 Photo and media sharing
+- 🌙 Dark mode support
+- 🟣 Clean UI using Google Fonts
 
-This project is a starting point for a Flutter application.
+## 🚀 Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter 💙
+- Firebase Auth & Firestore 🔥
+- Provider for state management
+- Google Sign-In
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Features to Add
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Chatly
->>>>>>> 4ac9c86b221f3c9a2269acb514ae363da6018a81
+- Typing indicators
+- Seen status
+- Push notifications
+- User search & follow
+
+## 📱 Screenshots (Coming Soon)
+
+## 🛠️ Setup Instructions
+
+```bash
+git clone https://github.com/vishy-18/Chatly.git
+cd Chatly
+flutter pub get
+flutter run
