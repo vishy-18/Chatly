@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "201039766736",
+    "project_id": "login-portal-aabe2",
+    "storage_bucket": "login-portal-aabe2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201039766736:android:7d960bf751faf03d0eaad5",
+        "android_client_info": {
+          "package_name": "com.example.chatly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201039766736-1f6o4i9dl5vp444qpi3f9k14c414gmba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatly",
+            "certificate_hash": "b732d6a62cf2c5847390ef3e6dce0c4c297d3361"
+          }
+        },
+        {
+          "client_id": "201039766736-upd0pnv1jstote82dgna02euqgq75s92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGW_-ywnUw2q-lpCwsW0PzpKjFSdnT7sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201039766736-upd0pnv1jstote82dgna02euqgq75s92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201039766736-o9t35nua5l2cm8nc2um04cpk7elehq5f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
